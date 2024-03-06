@@ -30,8 +30,7 @@ This Rust application provides a graphical user interface (GUI) for zipping and 
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](Screenshot1.png)
 
 ## Contributions
 
